@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👨‍💻 **Name:** Thiago Henrique
-🎓 **Focus:** Cybersecurity & Ethical Hacking
-💼 **Goal:** Junior Pentester / Security Analyst
-🎮 **Interests:** Games, Football & CTFs
+👨‍💻 **Name:** Thiago Henrique <br>
+🎓 **Focus:** Cybersecurity & Ethical Hacking <br>
+💼 **Goal:** Junior Pentester / Security Analyst <br>
+🎮 **Interests:** Games, Football & CTFs <br>
 🚀 **Always looking for new challenges and learning opportunities!**
 
 ---
